@@ -10,13 +10,21 @@ Estas són las **palabras en negrita**, estas las *que estan en cursiva* y estas
 
 Aquí esta el logo de la universidad
 Logo de la universidad:
-![alt text] https://creas-ids.es/wp-content/uploads/2019/03/logo-uji-1.jpg "Logo Uji"
+![alt text](https://creas-ids.es/wp-content/uploads/2019/03/logo-uji-1.jpg "Logo Uji")
 
-Emoji:
-![alt text][emoji]
-[emoji]: https://images.emojiterra.com/google/android-10/512px/1f60a.png "Emoji Contento"
+Emoji: 😕
 
-También se pueden poder...
+De vez en cuando se pueden poner alertas[^1]
+Con diferentes explicaciones[^2]
+
+[^1]: Para añadir información relevante
+[^2]: Para poner en contexto de que se esta hablando en el momento
+
+También se pueden poner...
 ---
 Lineas horizontales
+***
+Con asteriscos
+___
+Y barras bajas
 
